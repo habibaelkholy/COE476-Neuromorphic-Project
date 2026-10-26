@@ -4,10 +4,10 @@ Projects on **event-based vision** and **spiking neural networks (SNNs)**.
 
 ## Contents
 
-- [Background: event cameras and SNNs](#1-event-cameras): a short introduction to the ideas behind the projects
-- [Hardware: OpenMV N6 + GENX320](#5-hardware-openmv-n6--genx320): getting events from the lab camera
-- [SNN libraries and v2e](#6-snn-libraries-and-v2e): tools for training SNNs and simulating events
-- [Project ideas](#7-project-ideas): seven proposed projects
+- [Background: event cameras and SNNs](#1-event-cameras)
+- [Hardware: OpenMV N6 + GENX320](#5-hardware-openmv-n6--genx320)
+- [SNN libraries and v2e](#6-snn-libraries-and-v2e)
+- [Project ideas](#7-project-ideas)
 
 ## References
 
