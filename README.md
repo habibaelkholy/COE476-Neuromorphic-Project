@@ -13,7 +13,7 @@ Projects on **event-based vision** and **spiking neural networks (SNNs)**.
 
 The background sections are based on two papers:
 
-- **[1]** Ren et al., "A Comprehensive Survey on Event Camera Representation Learning", arXiv:2606.23078, 2026.
+- **[1]** Ren et al., "A Comprehensive Survey on Event Camera Representation Learning", [arXiv:2606.23078, 2026](https://arxiv.org/abs/2606.23078). 
 - **[2]** Yamazaki et al., "Spiking Neural Networks and Their Applications: A Review", *Brain Sciences* 12:863, 2022. [doi:10.3390/brainsci12070863](https://doi.org/10.3390/brainsci12070863)
 
 LIF maths and code are from:
