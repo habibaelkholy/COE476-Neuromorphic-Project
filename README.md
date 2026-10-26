@@ -62,8 +62,6 @@ There are two broad families [1].
 
 **Sparse representations** keep events as events, treating them as tokens, graph nodes or a 3D point cloud. They preserve timing but need more specialised models.
 
-The survey's main point is that no representation is best overall. Each trades timing detail against efficiency and compatibility with standard networks. Simple ones, such as event frames and binary maps, remain the practical choice when compute is limited [1].
-
 ---
 
 ## 3. Spiking neural networks
